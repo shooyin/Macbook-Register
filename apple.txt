@@ -1,0 +1,130 @@
+MMQA2LL/A
+iMac "Core i5" 2.3 21.5-Inch (Mid-2017)
+June 5, 2017
+1099
+2
+MNDY2LL/A
+iMac "Core i5" 3.0 21.5-Inch (4K, Mid-2017)
+June 5, 2017
+1299
+1
+MNE02LL/A
+iMac "Core i5" 3.4 21.5-Inch (4K, Mid-2017)
+June 5, 2017
+1499
+5
+MNE92LL/A
+iMac "Core i5" 3.4 27-Inch (5K, Mid-2017)
+June 5, 2017
+1799
+4
+MNEA2LL/A
+iMac "Core i5" 3.5 27-Inch (5K, Mid-2017)
+June 5, 2017
+1999
+5
+MNED2LL/A
+iMac "Core i5" 3.8 27-Inch (5K, Mid-2017)
+June 5, 2017
+2299
+2
+MQ2Y2LL/A
+iMac Pro "8-Core" 3.2 27-Inch (5K, Late 2017)
+December 14, 2017*
+4999
+2
+MNYF2LL/A*
+MacBook "Core m3" 1.2 12" (Mid-2017)
+June 5, 2017
+1299
+1
+MNYG2LL/A*
+MacBook "Core i5" 1.3 12" (Mid-2017)
+June 5, 2017
+1599
+4
+MQD32LL/A*
+MacBook Air "Core i5" 1.8 13" (Early 2015*)
+June 5, 2017
+1199
+2
+MJLQ2LL/A
+MacBook Pro "Core i7" 2.2 15" Mid-2015 (IG)
+March 9, 2015
+1349
+3
+MPXQ2LL/A*
+MacBook Pro "Core i5" 2.3 13" Mid-2017
+May 19, 2015
+1999
+3
+MPXV2LL/A*
+MacBook Pro "Core i5" 3.1 13" Touch/Mid-2017
+June 5, 2017
+1499
+5
+MPTR2LL/A*
+MacBook Pro "Core i7" 2.8 15" Touch/Mid-2017
+June 5, 2017
+1999
+6
+MPTT2LL/A*
+MacBook Pro "Core i7" 2.9 15" Touch/Mid-2017
+June 5, 2017
+2799
+1
+MGEM2LL/A
+Mac mini "Core i5" 1.4 (Late 2014)
+October 16, 2014
+499
+2
+MGEN2LL/A
+Mac mini "Core i5" 2.6 (Late 2014)
+October 16, 2014
+699
+3
+MGEQ2LL/A
+Mac mini "Core i5" 2.8 (Late 2014)
+October 16, 2014
+999
+1
+MD878LL/A
+Mac Pro "Six Core" 3.5 (Late 2013)
+October 22, 2013*
+2999
+2
+MA254LL/A
+MacBook "Core Duo" 1.83 13"
+May 16, 2006
+200
+0
+MA090LL
+MacBook Pro "Core Duo" 1.67 15"
+January 10, 2006*
+300
+0
+MB003LL/A
+MacBook Air "Core 2 Duo" 1.6 13" (Original)
+January 15, 2008*
+400
+0
+M7952LL/A
+PowerBook G4 400 (Original - Ti)
+January 9, 2001
+150
+0
+M7707LL/A*
+iBook G3/300 (Original/Clamshell)
+July 21, 1999*
+200
+0
+M6709LL/A*
+iMac G3/233 Original - Bondi (Rev. A & B)
+May 6, 1998*
+150
+0
+M9020LL/A
+Power Macintosh G5 1.6 (PCI)
+June 23, 2003
+250
+0

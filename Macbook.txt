@@ -1,0 +1,258 @@
+Name
+Model Identifier
+Year
+Price
+Size
+Processor
+Memory
+Storage
+Order Number
+1
+MacBook Air
+MacBookAir7,2
+Mid 2017
+$1199 
+13-inch
+1.8GHz dual-core Intel Core i5
+8GB 
+256GB
+MQD32LL/A
+2
+MacBook Pro
+MacBookPro5,5
+Mid 2009
+$1499
+13-inch
+2.53GHz Intel Core 2 Duo
+4GB
+256 GB
+MB991LL/A
+3
+MacBook Pro
+MacBookPro5,5
+Mid 2009
+$1499
+13-inch
+2.26GHz Intel Core 2 Duo
+2GB
+256 GB
+MB990LL/A
+4
+MacBook Pro
+MacBookPro5,3
+Mid 2009
+$2399
+15-inch
+2.53GHz Intel Core 2 Duo
+4GB
+256 GB
+MC118LL/A
+5
+MacBook Pro
+MacBookPro5,2
+Early 2009
+$2399
+15-inch
+2.4GHz Intel Core 2 Duo
+256 GB
+2GB
+MB470LL/A
+6
+MacBook Air
+MacBookAir7,2
+Early 2015
+$999
+13-inch
+2.2GHz dual-core Intel Core i7
+4GB
+128 GB
+MQD32LL/A
+7
+MacBook Pro
+MacBookPro14,1
+Mid 2017
+13-inch
+2.3GHz dual-core Intel Core i5
+8GB 
+256GB
+MPXQ2LL/A
+8
+MacBook Pro Touch
+MacBookPro14,2
+Mid 2017
+$1799
+13-inch
+3.1GHz dual-core Intel Core i5
+8GB
+512 GB
+MPXV2LL/A
+9
+MacBook Pro Touch
+MacBookPro13,3
+Late 2016
+$2399
+15-inch
+2.6GHz quad-core Intel Core i7
+16GB 
+256GB
+MLH42LL/A
+10
+MacBook Air
+MacBookAir6,2
+Early 2014
+$999
+13-inch
+1.4GHz dual-core Intel Core i5
+4GB
+128GB
+MD760LL/B
+11
+MacBook Air
+MacBookAir6,1
+Early 2014
+$1199
+11-inch
+1.4GHz dual-core Intel Core i5
+4GB
+256GB
+MD711LL/B
+12
+MacBook Pro
+MacBookPro11,2
+Mid 2014
+$2399
+15-inch
+2.2GHz quad-core Intel Core i7
+16GB
+256GB
+MGXA2LL/A
+13
+MacBook Pro
+MacBookPro11,3
+Mid 2014
+$2799
+15-inch
+2.5GHz quad-core Intel Core i7
+16GB
+512GB
+MGXG2LL/A 
+14
+MacBook Pro
+MacBookPro11,2
+Late 2013
+$2399
+15-inch
+2.0GHz quad-core Intel Core i7 
+8GB
+256GB
+ME293LL/A
+15
+MacBook Pro
+MacBookPro11,2
+Late 2013
+$2399
+15-inch
+2.3GHz quad-core Intel Core i7
+16GB
+512GB
+ME293LL/A
+16
+MacBook Air
+MacBookAir6,2
+Mid 2013
+$999
+13-inch
+1.3GHz dual-core Intel Core i5
+4GB
+128GB
+MD760LL/A
+17
+MacBook Air
+MacBookAir6,2
+Mid 2013
+$1199
+13-inch
+1.3GHz dual-core Intel Core i5
+4GB
+256GB
+MD760LL/A
+18
+MacBook Pro 
+MacBookPro10,1
+Mid 2012
+$2399
+15-inch
+2.3GHz quad-core Intel Core i7
+8GB
+256GB
+MC976LL/A
+19
+MacBook Pro 
+MacBookPro10,2
+Late 2012
+$1499
+13-inch
+2.5GHz dual-core Intel Core i5
+8GB
+256GB
+MD212LL/A
+20
+MacBook Air
+MacBookAir4,2
+Mid 2011
+$999
+13-inch
+1.7GHz dual-core Intel Core i5 
+4GB
+128GB
+MC965LL/A
+21
+MacBook Air
+MacBookAir4,2
+Mid 2011
+$1199
+13-inch
+1.7GHz dual-core Intel Core i5 
+4GB
+256GB
+MD226LL/A
+22
+MacBook Air
+MacBookAir3,1 
+Late 2010
+$999
+11-inch
+1.4GHz Intel Core 2 Duo
+2GB
+64GB
+MC906LL/A
+23
+MacBook Air
+MacBookAir3,2 
+Late 2010
+$999
+13-inch
+1.86GHz Intel Core 2 Duo
+2GB
+128GB
+MC503LL/A
+24
+Macbook Pro
+MacBookPro3,1
+Mid 2007
+$2399
+15-inch
+2.2GHz Intel Core 2 Duo
+2GB
+256GB
+MA895LL
+25
+Macbook Pro
+MacBookPro3,1
+Mid 2007
+$2799
+15-inch
+2.4GHz Intel Core 2 Duo
+2GB
+512GB
+MA896LL
